@@ -1,0 +1,45 @@
+Ejercicios de Algoritmica II, ir marcando los ejercicios que ya estan hechos:
+
+Listas
+	Polinomio		HECHO
+	Editor de Texto		--> NO <--
+
+Listas + Listas
+	Estanteria		??
+		
+Colas
+				+ CALCULADORA??
+	Base de Datos
+	Cola de Cine
+
+Bicola
+	Palindromo		HECHO
+
+Pilas
+	Palindromo			HECHO
+	Comprobador Sintactico			HECHO
+	Avanzar y Retrocedes -> Navegador
+
+Pilas+Colas
+	Colas de Prioridad
+
+Arboles
+	Comp. Objetivos
+	Huffman
+	Clustering Jerárquico
+
+Conjuntos
+	Hospital
+	GenBank
+	Loteria
+	Poker
+
+Monticulos
+	HeapSort
+
+Grafos
+	Redes Sociales
+	Dijkstra
+
+Otros
+	BBS + PRIM + Kruskal
